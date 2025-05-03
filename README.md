@@ -1,2 +1,1 @@
-# odin-recipes
-My take on the first project for The Odin Project
+This is my Odin Recipe's Project. I intend to dedicate it to FONDUE
