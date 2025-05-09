@@ -1,0 +1,21 @@
+/* style.css */
+
+body {
+    background-color: rgb(158, 255, 255);
+    text-align: center;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; 
+
+}
+ol, ul {
+    text-align: left;
+}
+img {
+    margin-bottom: 20px;
+    border: 10px groove blue;
+}
+button {
+    background-color: green;
+}
+h2 {
+    text-decoration: underline;
+}
